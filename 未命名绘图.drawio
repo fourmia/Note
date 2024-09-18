@@ -229,19 +229,19 @@
         <mxCell id="UFrKVk_Evucttn0kIX_x-131" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;可视化&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="-70" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UFrKVk_Evucttn0kIX_x-132" value="基础数据展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UFrKVk_Evucttn0kIX_x-132" value="基础数据展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="120" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UFrKVk_Evucttn0kIX_x-133" value="实时功率结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UFrKVk_Evucttn0kIX_x-133" value="实时功率结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="260" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UFrKVk_Evucttn0kIX_x-134" value="设备运行状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UFrKVk_Evucttn0kIX_x-134" value="设备运行状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="400" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UFrKVk_Evucttn0kIX_x-135" value="功率预测数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UFrKVk_Evucttn0kIX_x-135" value="功率预测数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="540" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UFrKVk_Evucttn0kIX_x-136" value="预测结果对比" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UFrKVk_Evucttn0kIX_x-136" value="预测结果对比" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="680" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
