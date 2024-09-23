@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gggR3p40mo_o2JFA4w1f-39" value="动态范围评估、动态适应性评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gggR3p40mo_o2JFA4w1f-39" value="动态范围/&lt;div&gt;适应性评估&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="670" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gggR3p40mo_o2JFA4w1f-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gggR3p40mo_o2JFA4w1f-52" target="gggR3p40mo_o2JFA4w1f-58">
@@ -125,14 +125,14 @@
         <mxCell id="gggR3p40mo_o2JFA4w1f-70" value="" style="html=1;whiteSpace=wrap;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="460" y="580" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gggR3p40mo_o2JFA4w1f-74" value="动态范围评估、动态适应性评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="590" width="90" height="30" as="geometry" />
+        <mxCell id="gggR3p40mo_o2JFA4w1f-74" value="动态&lt;span style=&quot;background-color: initial;&quot;&gt;范围/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;适应性评估&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="590" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gggR3p40mo_o2JFA4w1f-75" value="考核指标评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="590" width="60" height="30" as="geometry" />
+        <mxCell id="gggR3p40mo_o2JFA4w1f-75" value="考核&lt;div&gt;指标评估&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gggR3p40mo_o2JFA4w1f-76" value="长期稳定性评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="590" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gggR3p40mo_o2JFA4w1f-78" value="" style="html=1;whiteSpace=wrap;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="460" y="660" width="310" height="50" as="geometry" />
@@ -152,11 +152,50 @@
         <mxCell id="gggR3p40mo_o2JFA4w1f-84" value="高影响天气验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="630" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gggR3p40mo_o2JFA4w1f-152" value="物理仿真验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="590" width="60" height="30" as="geometry" />
+        <mxCell id="gggR3p40mo_o2JFA4w1f-152" value="物理&lt;div&gt;仿真验证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gggR3p40mo_o2JFA4w1f-161" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=28.67;notch=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-170" value="模拟控制实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="750" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-171" value="电厂实地部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="750" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-174" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gggR3p40mo_o2JFA4w1f-170" target="gggR3p40mo_o2JFA4w1f-171">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="760" as="sourcePoint" />
+            <mxPoint x="190" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-175" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gggR3p40mo_o2JFA4w1f-171">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="770" as="sourcePoint" />
+            <mxPoint x="365" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gggR3p40mo_o2JFA4w1f-176" target="gggR3p40mo_o2JFA4w1f-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-176" value="多角度验证评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="750" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-177" value="主动运维监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="750" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gggR3p40mo_o2JFA4w1f-178" target="gggR3p40mo_o2JFA4w1f-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-178" value="企业系统集成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="750" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gggR3p40mo_o2JFA4w1f-179" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gggR3p40mo_o2JFA4w1f-176">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="765" as="sourcePoint" />
+            <mxPoint x="510" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
