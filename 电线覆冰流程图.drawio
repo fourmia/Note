@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="第 1 页" id="3YCtjMEnQcZjurub8pxI">
-    <mxGraphModel>
+    <mxGraphModel dx="1774" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_GHT_Cr42DcA0ZJa1FO-21" target="k_GHT_Cr42DcA0ZJa1FO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="245" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-1" value="气温" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-3" value="平均风速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="260" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_GHT_Cr42DcA0ZJa1FO-4" target="k_GHT_Cr42DcA0ZJa1FO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-4" value="高分辨率DEM精细化订正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_GHT_Cr42DcA0ZJa1FO-5" target="k_GHT_Cr42DcA0ZJa1FO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-5" value="日均气象指标计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-7" value="相对湿度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_GHT_Cr42DcA0ZJa1FO-13" target="k_GHT_Cr42DcA0ZJa1FO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-13" value="雾凇、雨凇及混合型区气象条件计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_GHT_Cr42DcA0ZJa1FO-15" target="k_GHT_Cr42DcA0ZJa1FO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-15" value="各位置持续天数统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_GHT_Cr42DcA0ZJa1FO-17" target="k_GHT_Cr42DcA0ZJa1FO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-17" value="型区区划匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="620" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_GHT_Cr42DcA0ZJa1FO-19" value="电线积冰气象风险等级结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="320" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
